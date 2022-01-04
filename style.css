@@ -52,3 +52,24 @@ h1{
 p{
     text-align: justify;
 }
+.Experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.padding{
+    width: 40;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 5px goldenrod;
+    padding-left: 30px;
+    border-radius: 2%;
+   
+}
+#border1{
+    border-left: 7px solid;
+    border-image: linear-gradiant(#f6b73c,#4d9f0c);
+    border-image-slice: 1;
+}
+
